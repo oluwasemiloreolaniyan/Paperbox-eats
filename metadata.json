@@ -1,0 +1,6 @@
+{
+  "name": "Paperbox Eats",
+  "description": "Modern Nigerian restaurant and takeaway serving smoky jollof rice, asun pasta, grilled turkey, suya, shawarma, and handcrafted milkshakes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
